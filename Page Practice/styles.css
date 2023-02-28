@@ -1,0 +1,17 @@
+/* Nav elements */
+.nav {
+  background-color: antiquewhite;
+}
+
+/* Bottom .left section */
+.left {
+  background-color: aqua;
+  width: 29%;
+  float: left;
+}
+/* Bottom .right section */
+.right {
+  background-color: blueviolet;
+  width: 70%;
+  float: left;
+}
